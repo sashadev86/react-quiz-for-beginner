@@ -5,7 +5,7 @@
 
 ### Демонстрация:
 
-* Для демонстрации проекта можно перейти по ссылке и просмотреть [deploy](https://banditos86.github.io/react-quiz-for-beginner/ "React-Quiz"), либо скачать репозиторий из ветки dev:
+* Для демонстрации проекта можно перейти по ссылке и просмотреть [deploy](https://sashadev86.github.io/react-quiz-for-beginner/ "React-Quiz"), либо скачать репозиторий из ветки dev:
 ```javascript
   https://github.com/BANDITOS86/react-quiz-for-beginner/tree/dev
 ```
@@ -26,7 +26,7 @@
   npm run deploy
 ```
 
-### Deploy: [React-Quiz](https://banditos86.github.io/react-quiz-for-beginner/ "React-Quiz")
+### Deploy: [React-Quiz](https://sashadev86.github.io/react-quiz-for-beginner/ "React-Quiz")
 
 ### Результат:
-[![React-Quiz](https://github.com/BANDITOS86/my-img/blob/main/quiz-beginner.png?raw=true)](https://banditos86.github.io/react-quiz-for-beginner/)
+[![React-Quiz](https://github.com/BANDITOS86/my-img/blob/main/quiz-beginner.png?raw=true)](https://sashadev86.github.io/react-quiz-for-beginner/)
